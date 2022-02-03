@@ -32,9 +32,9 @@ public class DAO {
 	public DAO()
 	{
 		url = "http://localhost/";
-		db = "car";
-		uname = "root";
-		pwd = "root";
+		db = "carsales"; // replace with your own schema name
+		uname = "root"; // replace with your db user name
+		pwd = "root"; /* replace with your db password */
 		
 	}
 	
